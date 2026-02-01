@@ -1,3 +1,6 @@
-__pycache__/
+# Private configuration
+config.json
 .DS_Store
-venv/
+__pycache__/
+*.pyc
+ima_last_result.txt
