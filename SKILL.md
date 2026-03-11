@@ -1,3 +1,8 @@
+---
+name: ima-agent-skill
+description: Control the IMA (ima.copilot) desktop application for AI search and private knowledge retrieval.
+---
+
 # IMA Skill
 
 Control the **IMA (ima.copilot)** desktop application for AI search and private knowledge retrieval.
